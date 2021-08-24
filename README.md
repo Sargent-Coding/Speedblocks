@@ -1,6 +1,5 @@
-```
+he/him&emsp;•&emsp;15&emsp;•&emsp;gay&emsp;•&emsp;femboy
 
-Hey there, I'm Speedblocks!
+im a web dev and graphic designer that likes the colour pink, kawaii stuff and cute boys.
 
-```
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=spdblx)](https://github.com/anuraghazra/github-readme-stats)
+https://spdblx.glitch.me/
