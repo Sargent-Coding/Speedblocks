@@ -3,7 +3,7 @@
 <br/>
 
 <p align="center">
-  <img width="100" src="https://cdn.glitch.com/156fb39e-f058-4c13-9fda-970d6472ba0e%2F60a05ef4c0ef3fe43e8d65a36cd872bb.png?v=1632491492049">
+  <img width="100" src="https://avatars.githubusercontent.com/u/65425469?v=4">
 </p>
 
 <p align="center">
