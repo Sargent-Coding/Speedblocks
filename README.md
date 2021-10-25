@@ -12,7 +12,7 @@
   to make stuff on the web and design cool things.
 </p>
 <p align="center">
-  <sup>he/him&emsp;•&emsp;gay&emsp;•&emsp;femboy</sup>
+  <sup>he/him&emsp;•&emsp;gay</sup>
 </p>
 
 <p align="center">
