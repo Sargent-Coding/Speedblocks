@@ -7,16 +7,14 @@
 </p>
 
 <p align="center">
-  I'm Speedblocks, a not-so-normal high-schooler that likes
-  <br />
-  to make stuff on the web and design cool things.
+  I'M AETINX, A GRAPHIC DESIGNER AND WEB DEVELOPER BASED IN MAINE.
 </p>
 <p align="center">
   <sup>he/him&emsp;•&emsp;gay</sup>
 </p>
 
 <p align="center">
-  https://spdblx.glitch.me
+  https://aetinx.glitch.me
 </p>
 
 <br/>
