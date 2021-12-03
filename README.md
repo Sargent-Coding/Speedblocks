@@ -7,10 +7,7 @@
 </p>
 
 <p align="center">
-  I'M AETINX, A GRAPHIC DESIGNER AND WEB DEVELOPER BASED IN MAINE.
-</p>
-<p align="center">
-  <sup>he/him&emsp;•&emsp;gay</sup>
+  <b>𝚊 𝚎 𝚝 𝚒 𝚗 𝚡</b>
 </p>
 
 <p align="center">
