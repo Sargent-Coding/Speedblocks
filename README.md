@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  [aetinx.saco.ml](https://aetinx.saco.ml)
+  https://aetinx.saco.ml
 </p>
 
 <br/>
