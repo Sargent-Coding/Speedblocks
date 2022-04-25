@@ -1,19 +1,3 @@
-<br/>
-<br/>
-<br/>
+Look at my cool stats:
 
-<p align="center">
-  <img width="100" src="https://avatars.githubusercontent.com/u/65425469?v=5">
-</p>
-
-<p align="center">
-  <b>𝚊 𝚎 𝚝 𝚒 𝚗 𝚡</b>
-</p>
-
-<p align="center">
-  https://aetinx.saco.ml
-</p>
-
-<br/>
-<br/>
-<br/>
+![My stats](https://github-readme-stats.vercel.app/api?username=aetinx)
